@@ -44,5 +44,5 @@ Welcome to my portfolio of data analysis and data science projects! This reposit
    - Install required packages with `pip install -r requirements.txt`
 
 ## Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Email: your.email@example.com
+- LinkedIn: [Abhishek Banaj](https://www.linkedin.com/in/abhishekbanaj/)
+- Email: Abhishekbanaj01@gmail.com
